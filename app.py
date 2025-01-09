@@ -45,6 +45,7 @@ df = pd.DataFrame(locations)
 # Streamlit UI
 st.title("Comedy Open Mic Locator")
 st.markdown("Last updated: 1/3/2025")
+st.markdown("Use left tab for filtering.")
 
 # Day checkboxes
 st.sidebar.header("Filter by Day")
