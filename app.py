@@ -3,9 +3,10 @@ import pandas as pd
 import json
 import googlemaps
 import pydeck as pdk
+import os
 
 # Load API key and JSON data
-API_KEY = "AIzaSyApVvmaI_WNtYO-vBw_96YGVHTczY6Ca6s"
+API_KEY = st.secrets["API_KEY"]
 gmaps = googlemaps.Client(key=API_KEY)
 
 with open("data.json", "r") as file:
