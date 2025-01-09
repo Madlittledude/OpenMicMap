@@ -1,0 +1,265 @@
+{
+  "Sunday": [
+    {
+      "Name": "Hype Mic @ Trophy Wife Bar",
+      "Address": "3715 Evans St W, Los Angeles, CA 90027",
+      "Time": "3:30 PM",
+      "Details": [
+        "First come, first serve",
+        "Capped at 20 comics"
+      ]
+    },
+    {
+      "Name": "Sunday Auditions @ The Comedy Chateau",
+      "Address": "4615 Lankershim Blvd, North Hollywood, CA 91602",
+      "Time": "4:30 PM",
+      "Details": [
+        "First come, first serve",
+        "Bookers watching"
+      ]
+    },
+    {
+      "Name": "Tao Comedy Studio",
+      "Address": "131 S Western Ave, Los Angeles, CA 90004",
+      "Time": "4:30 PM",
+      "Details": [
+        "$5/5 min",
+        "First come, first serve"
+      ]
+    },
+    {
+      "Name": "Open Mic Night @ Park La Brea Theatre",
+      "Address": "475 S Curson Ave, Los Angeles, CA 90036",
+      "Time": "6:30 PM",
+      "Details": [
+        "Lotto"
+      ]
+    },
+    {
+      "Name": "Liquid Zoo",
+      "Address": "7214 Sepulveda Blvd, Van Nuys, CA 91405",
+      "Time": "8:30 PM",
+      "Details": [
+        "Two-item minimum",
+        "First come, first serve"
+      ]
+    },
+    {
+      "Name": "Set Of The Night @ The World-Famous Comedy Store (Belly Room)",
+      "Address": "8433 Sunset Blvd, West Hollywood, CA 90069",
+      "Time": "8:30 PM (sometimes 10:30 PM)",
+      "Details": [
+        "Lotto",
+        "1-item minimum (but unlimited receipts accepted in the bucket)",
+        "Best set wins prime spot on Potluck",
+        "Check the Comedy Store calendar to confirm schedule"
+      ]
+    },
+    {
+      "Name": "Pack Theater",
+      "Address": "6470 Santa Monica Blvd, Los Angeles, CA 90038",
+      "Time": "10:30 PM",
+      "Details": [
+        "Free signup on their Slotted"
+      ]
+    }
+  ],
+  "Monday": [
+    {
+      "Name": "Potluck @ The World-Famous Comedy Store (Original Room)",
+      "Address": "8433 Sunset Blvd, West Hollywood, CA 90069",
+      "Time": "4:00 PM - 7:00 PM",
+      "Details": [
+        "Sign-ups are on the patio 4:00–5:30 PM",
+        "~16 names will be posted at 6:00 PM",
+        "21+/Must have ID"
+      ]
+    },
+    {
+      "Name": "Monday Afternoon Storytelling @ The Glendale Room",
+      "Address": "127 Artsakh Ave, Glendale, CA 91206",
+      "Time": "4:00 PM",
+      "Details": [
+        "Lotto",
+        "Storytelling only",
+        "$3/7 minutes"
+      ]
+    },
+    {
+      "Name": "Stellar Cellar @ Nico’s Wines",
+      "Address": "2437 Main St, Santa Monica, CA 90405",
+      "Time": "5:00 PM",
+      "Details": [
+        "First come, first serve",
+        "1-item minimum"
+      ]
+    },
+    {
+      "Name": "Music & Laughs With Mike Silver @ Daves on Broadway",
+      "Address": "708 E Broadway, Glendale, CA 91205",
+      "Time": "6:30 PM",
+      "Details": [
+        "First come, first serve"
+      ]
+    },
+    {
+      "Name": "Baby Battista @ Nico's",
+      "Address": "2437 Main St, Santa Monica, CA 90405",
+      "Time": "9:00 PM",
+      "Details": [
+        "Third Monday of the month",
+        "One-item minimum",
+        "Lotto",
+        "2 minutes for regular stand-up",
+        "4 minutes for desk sets"
+      ]
+    },
+    {
+      "Name": "Goodnight with Glomstad @ Roocco’s",
+      "Address": "8908 Santa Monica Blvd, West Hollywood, CA 90069",
+      "Time": "9:00 PM",
+      "Details": [
+        "First hour: a mix of booked and lotto spots",
+        "Second hour: all lotto pulls",
+        "1-item minimum",
+        "Talk Show style format"
+      ]
+    }
+  ],
+  "Tuesday": [
+    {
+      "Name": "Laugh Factory",
+      "Address": "8001 Sunset Blvd, Los Angeles, CA 90046",
+      "Time": "4:30 PM",
+      "Details": [
+        "First 10 in line get up",
+        "10 more names are drawn from the bucket",
+        "Must work clean",
+        "Booking department watches"
+      ]
+    },
+    {
+      "Name": "Happy Hour Open Mic @ The World-Famous Hollywood Improv",
+      "Address": "8162 Melrose Ave, Los Angeles, CA 90046",
+      "Time": "4:30 PM",
+      "Details": [
+        "Lotto",
+        "Levity bookers watch"
+      ]
+    },
+    {
+      "Name": "Kibitz Room @ Canter’s Deli",
+      "Address": "419 N Fairfax Ave, Los Angeles, CA 90036",
+      "Time": "4:45 PM",
+      "Details": [
+        "Lotto",
+        "Must work clean"
+      ]
+    },
+    {
+      "Name": "Cahuenga General Store",
+      "Address": "5510 Cahuenga Blvd, North Hollywood, CA 91601",
+      "Time": "5:30 PM",
+      "Details": [
+        "1-item minimum",
+        "Free signup on their Slotted"
+      ]
+    }
+  ],
+  "Wednesday": [
+    {
+      "Name": "Lab Work @ Hollywood Improv",
+      "Address": "8162 Melrose Ave, Los Angeles, CA 90046",
+      "Time": "5:30 PM",
+      "Details": [
+        "Lotto",
+        "Reeta the booker watches"
+      ]
+    },
+    {
+      "Name": "HaHa Comedy Club",
+      "Address": "4712 Lankershim Blvd, North Hollywood, CA 91602",
+      "Time": "5:30 PM",
+      "Details": [
+        "1-item minimum",
+        "First come, first serve"
+      ]
+    },
+    {
+      "Name": "Mar Vista Branch Library",
+      "Address": "12006 Venice Blvd, Los Angeles, CA 90066",
+      "Time": "5:45 PM",
+      "Details": [
+        "First come, first serve"
+      ]
+    }
+  ],
+  "Thursday": [
+    {
+      "Name": "The Good Mic @ Lyric Hyperion",
+      "Address": "2106 Hyperion Ave, Los Angeles, CA 90027",
+      "Time": "10:00 AM",
+      "Details": [
+        "Lotto",
+        "1-item minimum"
+      ]
+    },
+    {
+      "Name": "HaHa Comedy Club",
+      "Address": "4712 Lankershim Blvd, North Hollywood, CA 91602",
+      "Time": "5:30 PM",
+      "Details": [
+        "Lotto",
+        "1-item minimum"
+      ]
+    },
+    {
+      "Name": "Wasted Potential Presents @ Figueroa Mountain Brewing Co",
+      "Address": "137 Anacapa St, Santa Barbara, CA 93101",
+      "Time": "5:30 PM",
+      "Details": [
+        "Second Thursday of the month",
+        "First come, first serve"
+      ]
+    }
+  ],
+  "Friday": [
+    {
+      "Name": "7 Minutes In Heaven @ Lyric Hyperion",
+      "Address": "2106 Hyperion Ave, Los Angeles, CA 90027",
+      "Time": "1:00 PM",
+      "Details": [
+        "Sign-up on Slotted",
+        "LGBTQ+ allies"
+      ]
+    },
+    {
+      "Name": "Friday Friends @ The Glendale Room",
+      "Address": "127 Artsakh Ave, Glendale, CA 91206",
+      "Time": "4:00 PM",
+      "Details": [
+        "Lotto",
+        "Capped at 15 comics"
+      ]
+    }
+  ],
+  "Saturday": [
+    {
+      "Name": "Chill Vibes Storytelling Open Mic @ Lyric Hyperion",
+      "Address": "2106 Hyperion Ave, Los Angeles, CA 90027",
+      "Time": "1:00 PM",
+      "Details": [
+        "1-item minimum",
+        "Storytelling only"
+      ]
+    },
+    {
+      "Name": "Kaboom Comedy @ NoHo Diner",
+      "Address": "11329 Magnolia Blvd, North Hollywood, CA 91601",
+      "Time": "10:00 PM",
+      "Details": [
+        "First come, first serve"
+      ]
+    }
+  ]
+}
